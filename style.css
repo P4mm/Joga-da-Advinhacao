@@ -1,0 +1,42 @@
+@import url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa75u-th6IkFFTrwdGo9O2fUPHs03DUfdJfA&usqp=CAU');
+
+body{
+    background-image: url('https://livrosfilmes2017.files.wordpress.com/2017/08/o-mentalista-4.jpg');
+  background-repeat: no-repeat;
+  background-position: center top;
+  font-family: 'PT Sans Narrow', sans-serif;
+  display: flex;
+  flex-direction: column;
+  color: #222232;
+  margin: 64px;
+  font-weight: bold;
+
+
+}
+
+.title {
+  border-bottom:2px solid;
+
+}
+
+.normalButton{
+  font-family: 'PT Sans Narrow', sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  margin-top: 20px;
+  padding: 10px;
+  color: #222232;
+  border-radius: 100px;
+  border: 0px;
+  
+}
+
+.normalButton:hover {
+  background: #00FF7F;
+  
+}
+
+.normalButton:active {
+  background: #A9A9A9;  
+
+}
